@@ -1,1 +1,1 @@
-# Me revisiting this project as a refresher and relearning github and github.
+# Me revisiting this project as a refresher and relearning git and github.
